@@ -1,4 +1,4 @@
-21288230517157627
+21289915058063210
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59352,6 +59352,13 @@ ETQ-P4M470YFN_Inductor
 0
 2
 2
+MRDT_Passives
+SOT-23_Diode
+
+
+0
+3
+3
 MRDT_Passives
 WSLP2726
 
